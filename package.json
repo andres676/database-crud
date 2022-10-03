@@ -1,0 +1,22 @@
+{
+  "name": "crud_js_async-database",
+  "version": "1.0.0",
+  "description": "database crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/andres676.git"
+  },
+  "keywords": [
+    "admin"
+  ],
+  "author": "Andres Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/andres676/issues"
+  },
+  "homepage": "https://github.com/github.com/andres676#readme"
+}
