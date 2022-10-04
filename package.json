@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/github.com/andres676/issues"
   },
-  "homepage": "https://github.com/github.com/andres676#readme"
+  "homepage": "https://github.com/github.com/andres676#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.10"
+  }
 }
