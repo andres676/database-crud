@@ -13,7 +13,7 @@ const crearNuevaLinea = (nombre, email, id) => {
             </li>
             <li>
               <button class="simple-button simple-button--delete"
-                type="button" id="${id}">Eliminar
+                type="button" id="${id}" data-open="abrir">Eliminar
               </button>
             </li>
           </ul>
